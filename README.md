@@ -1,6 +1,6 @@
 # JAVA#
 
-![maven workflow](https://github.com/YuhengZhou30/MP06-UF4-PR4.1-Components-d-acc-s-a-dades/actions/workflows/maven.yml/badge.svg)
+[![maven workflow](https://github.com/YuhengZhou30/MP06-UF4-PR4.1-Components-d-acc-s-a-dades/actions/workflows/maven.yml/badge.svg)](https://github.com/YuhengZhou30/MP06-UF4-PR4.1-JAVA/actions/workflows/maven.yml/badge.svg)
 
 ## Arrencada ràpida ##
 Execució ràpida dels diferents exemples i resolusions de problemes
